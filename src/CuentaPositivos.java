@@ -2,7 +2,7 @@
  * Bucle while que termina cuando se introduce por teclado un
  * número negativo.
  *
- * @author Luis José Sánchez
+ * @author Luis José Sanchez
  */
 public class CuentaPositivos {
   public static void main(String[] args) {
